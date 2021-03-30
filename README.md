@@ -78,7 +78,7 @@ restart - restart bot [owner only]
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-- Configs [Here](https://github.com/itsrj20/Rj-gdrive-bot/tree/main#configs)
+- Configs [Here](https://github.com/itsrj20/Rj-gdrive-bot/)#config
 - For any help ask in [Telegram Group](https://t.me/IndianRedmiK20pro):
 - <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
