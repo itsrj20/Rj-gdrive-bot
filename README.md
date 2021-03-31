@@ -10,14 +10,6 @@
 2. Added /del command to delete files from drive
 3. /list module will post search result on telegra.ph
 ```
-- Special thanks to [archie](https://github.com/archie9211) for very much useful feature **Unzipmirror**
-- Features added from [archie](https://github.com/archie9211)'s repo
-```
-1. unzipmirror
-2. Update tracker list dynamically
-3. Fix SSL handsake error
-```
-
 
 # What is this repo about?
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
