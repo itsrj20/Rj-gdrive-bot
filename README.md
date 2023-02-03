@@ -1,9 +1,9 @@
 # Read:
-- Don't Deploy to Heroku without forking my Repo ⚠️
+- it's just for me, you can use it, tho. ⚠️
 
 
 ## Credits:
-- First of all, full credit goes to [Shivam Jha aka lzzy12](https://github.com/lzzy12) He build up this bot from scratch.
+- Credit goes to [lzzy12](https://github.com/lzzy12). He build it up.
 - Modified by [@itsrj20](https://github.com/itsrj20).
 ```
 1. Added Inline Buttons
