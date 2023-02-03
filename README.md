@@ -13,7 +13,7 @@
 
 # What is this repo about?
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
- for support : @itsrj20 @IndianRedmiK20pro
+ for support : @itsrj20
 
 
 - Improvements in Dockerfile.
